@@ -1,0 +1,12 @@
+beautifulsoup4
+pyppeteer
+fastapi[all]
+uvicorn
+python-dotenv
+groq
+boto3
+datetime
+requests
+Pillow
+sentencepiece
+transformers
